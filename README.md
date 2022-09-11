@@ -3,5 +3,5 @@ IoT Based Smart Crop Protection System for Agriculture
 # Team members
 Alben Richards M J <br/>
 Harinandini N <br/>
-Maheshwari G <br/>
+Maheswari G <br/>
 Abishek R
