@@ -1,5 +1,5 @@
-
-Alben Richards M J <br/>
-Harinandini N <br/>
-Maheswari G <br/>
+CONTRIBUTORS 
+Alben Richards M J 
+Harinandini N 
+Maheswari G 
 Abishek R
